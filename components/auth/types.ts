@@ -1,1 +1,1 @@
-export type Role = "superadmin" | "editor" | "attendant";
+export type Role = "superadmin" | "editor" | "attendant" | "visitor";
